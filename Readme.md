@@ -1,4 +1,4 @@
-1. build app with ant xml file :
+1.build app with ant xml file :
 
 ant -f "xml file" "target name"
 
