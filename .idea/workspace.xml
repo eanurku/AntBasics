@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88476b23-1838-4f4b-b83d-519f05e7ea99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFileSet/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFileSet/lib/abc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFileSet/lib/anc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFileSet/lib/apc/pqr.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFileSet/lib/xyz.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilelist/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilelist/lib/abc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilelist/lib/gtr.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilterset/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithFilterset/tmp/about.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib-dev/am/frm.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib-dev/amc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib-dev/mnc.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib-dev/pmc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib/abc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib/apache/xerc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPathElement/lib/xyz.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/lib/abc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/lib/anc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/lib/apc/pqr.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/lib/apc/rt.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithPatternSet/lib/xyz.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -55,32 +30,36 @@
         <counts>
           <entry key="dev" value="2" />
           <entry key="iml" value="2" />
+          <entry key="java" value="3" />
           <entry key="md" value="3" />
           <entry key="txt" value="5" />
-          <entry key="xml" value="27" />
+          <entry key="xml" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="3" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="XML" value="27" />
+          <entry key="XML" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dev" value="58" />
+          <entry key="java" value="155" />
           <entry key="md" value="100" />
           <entry key="txt" value="138" />
-          <entry key="xml" value="1370" />
+          <entry key="xml" value="1529" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="155" />
           <entry key="Markdown" value="100" />
           <entry key="PLAIN_TEXT" value="196" />
-          <entry key="XML" value="1370" />
+          <entry key="XML" value="1529" />
         </counts>
       </usages-collector>
     </session>
@@ -88,15 +67,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AntAppWithFilterset/build.xml">
+        <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/build.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,6 +128,10 @@
         <option value="$PROJECT_DIR$/AntAppWithFilelist/build.xml" />
         <option value="$PROJECT_DIR$/AntAppWithFilterset/tmp/about.txt" />
         <option value="$PROJECT_DIR$/AntAppWithFilterset/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Calculator.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJavadocElement/build.xml" />
       </list>
     </option>
   </component>
@@ -152,7 +159,28 @@
             <path>
               <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="AntAppWithFilterset" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +189,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568475542913" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568478681354" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -207,7 +235,7 @@
     <frame x="71" y="25" width="1849" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25346646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25346646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,7 +249,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -339,10 +367,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AntAppWithFilterset/build.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>

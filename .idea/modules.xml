@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" filepath="$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" filepath="$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" filepath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" filepath="$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" filepath="$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" filepath="$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" filepath="$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" />

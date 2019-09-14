@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project name="testProject" default="createjavaDoc" basedir=".">
+
+    <target name="createjavaDoc">
+        <javadoc sourcepath="src" destdir="javadocs">
+            <doctitle>
+                <![CDATA[Test App]]>
+            </doctitle>
+            <bottom>
+                <![CDATA[=CopyRight Reserved @ 2019]]>
+            </bottom>
+            <group title="group 1" packages="com.pkg1.C*"/>
+            <group title="group 2" packages="com.pkg1.S*"/>
+        </javadoc>
+
+
+    </target>
+
+</project>
