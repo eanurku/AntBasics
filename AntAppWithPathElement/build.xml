@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testTarget" basedir=".">
+
+    <path id="build-classpath1">
+        <pathelement location="lib/abc.jar"/>
+        <pathelement location="lib/apache/xerc.jar"/>
+        <pathelement location="lib/"/>
+    </path>
+
+    <path id="build-classpath2">
+        <fileset dir="lib-dev">
+            <include name="**/*.jar"/>
+        </fileset>
+
+        <pathelement location="lib/abc.jar"/>
+        <pathelement location="lib/"/>
+    </path>
+
+    <pathconvert property="build-claspath-value1"  refid="build-classpath1"/>
+    <pathconvert property="build-claspath-value2"  refid="build-classpath2"/>
+    <target name="testTarget">
+        <echo>test app1: ${build-claspath-value1}</echo>
+        <echo>test app2: ${build-claspath-value2}</echo>
+    </target>
+</project>

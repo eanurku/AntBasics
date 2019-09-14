@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testtarget" basedir=".">
+
+    <filelist id="libfiles" dir="lib">
+        <file name="abc.jar"/>
+        <file name="gtr.jar"/>
+
+    </filelist>
+
+    <pathconvert property="filesList" refid="libfiles"/>
+
+    <target name="testtarget">
+        <echo>file list:${filesList}</echo>
+    </target>
+
+</project>

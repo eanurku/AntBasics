@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testtarget" basedir=".">
+
+    <fileset id="libfiles" dir="lib">
+        <include name="**/*.jar"/>
+    </fileset>
+
+    <pathconvert property="filesList" refid="libfiles"/>
+
+    <target name="testtarget">
+        <echo>file list:${filesList}</echo>
+    </target>
+
+</project>

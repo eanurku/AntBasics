@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testtarget" basedir=".">
+
+    <target name="testtarget">
+
+        <copy todir="env/tmp">
+            <fileset dir="tmp" includes="**/*.txt"/>
+            <filterset>
+                <filter token="title" value="Dr."/>
+                <filter token="version" value="2.0"/>
+            </filterset>
+        </copy>
+
+    </target>
+
+</project>

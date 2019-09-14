@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testtarget" basedir=".">
+
+
+    <patternset id="lib-files-pattern">
+        <include name="**/*.jar"/>
+        <exclude name="**/.zip"/>
+    </patternset>
+
+    <fileset id="libfiles" dir="lib">
+        <patternset refid="lib-files-pattern"/>
+    </fileset>
+
+    <pathconvert property="filesList" refid="libfiles"/>
+
+    <target name="testtarget">
+        <echo>file list:${filesList}</echo>
+    </target>
+
+</project>
