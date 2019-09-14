@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testTarget" basedir=".">
+    <property file="${basedir}/build.properties.dev"/>
+
+    <target name="testTarget" >
+        <echo>app name = ${app.name}</echo>
+        <echo>app version= ${app.version}</echo>
+    </target>
+
+
+
+</project>

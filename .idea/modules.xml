@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" filepath="$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithProjectAndAtLeastOneTargetElement/AntAppWithProjectAndAtLeastOneTargetElement.iml" filepath="$PROJECT_DIR$/AntAppWithProjectAndAtLeastOneTargetElement/AntAppWithProjectAndAtLeastOneTargetElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithPropertyElement/AntAppWithPropertyElement.iml" filepath="$PROJECT_DIR$/AntAppWithPropertyElement/AntAppWithPropertyElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithPropertyFile/AntAppWithPropertyFile.iml" filepath="$PROJECT_DIR$/AntAppWithPropertyFile/AntAppWithPropertyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithTargetDependencyTree/AntAppWithTargetDependencyTree.iml" filepath="$PROJECT_DIR$/AntAppWithTargetDependencyTree/AntAppWithTargetDependencyTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntBasics.iml" filepath="$PROJECT_DIR$/AntBasics.iml" />
+    </modules>
+  </component>
+</project>

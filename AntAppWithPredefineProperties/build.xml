@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testTarget" basedir=".">
+    <target name="testTarget">
+        <echo>Ant pre-defined properties:</echo>
+        <echo>${ant.project.name}</echo>
+        <echo>${ant.file}</echo>
+        <echo>${ant.version}</echo>
+        <echo>${basedir}</echo>
+        <echo>${ant.java.version}</echo>
+        <echo>${ant.home}</echo>
+        <echo>${ant.library.dir}</echo>
+        <echo>${ant.core.lib}</echo>
+
+
+
+
+    </target>
+</project>

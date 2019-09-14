@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testTarget" basedir=".">
+    <target name="testTarget">
+        <echo>this is simaple ant app</echo>
+    </target>
+</project>

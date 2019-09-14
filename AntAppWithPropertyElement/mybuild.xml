@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testTarget" basedir=".">
+    <property name="key" value="value1"/>
+
+    <target name="testTarget">
+        <echo>property retrieved for key = ${key}</echo>
+    </target>
+
+</project>

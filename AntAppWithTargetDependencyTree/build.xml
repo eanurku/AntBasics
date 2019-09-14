@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project name="testProject" default="testTarget" basedir=".">
+    <property name="key" value="value1"/>
+
+    <target name="testTarget" depends="testTarget1,testTarget2,testTarget3">
+        <echo>property retrieved for key = ${key}</echo>
+    </target>
+    <target name="testTarget1">
+        <echo>property retrieved for key = ${key}</echo>
+    </target>
+    <target name="testTarget2" depends="testTarget1">
+        <echo>property retrieved for key = ${key}</echo>
+    </target>
+    <target name="testTarget3" depends="testTarget2">
+        <echo>property retrieved for key = ${key}</echo>
+    </target>
+
+
+</project>
