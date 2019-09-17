@@ -1,0 +1,6 @@
+clean
+compile
+init
+localDebugg
+unitBatchTest
+unitTest

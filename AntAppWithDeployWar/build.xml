@@ -1,11 +1,13 @@
 <?xml version="1.0"?>
-<project name="testWar" default="war" basedir=".">
+<project name="testWar" default="deployToTomcat" basedir=".">
 
     <property name="src.dir" value="src"/>
     <property name="dist.dir" value="dist"/>
     <property name="build.classes" value="dist/classes"/>
     <property name="lib.dir" value="lib"/>
     <property name="webapp.dir" value="src/main/webapp"/>
+
+    <property file="tomcat.properties"/>
 
     <path id="master-classpath">
         <fileset dir="${lib.dir}"/>
@@ -45,6 +47,13 @@
             </fileset>
         </war>
     </target>
+    <target name="deployToTomcat" depends="war">
+        <copy todir="${user.home}/${deploy.path}">
+            <filelist dir="${dist.dir}">
+                <file name="app.war"/>
+            </filelist>
+        </copy>
 
+    </target>
 
 </project>

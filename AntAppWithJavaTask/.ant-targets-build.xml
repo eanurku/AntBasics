@@ -1,0 +1,6 @@
+clean
+compile
+executableJar
+init
+localDebugg
+runJar

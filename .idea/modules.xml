@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithDeployWar/AntAppWithDeployWar.iml" filepath="$PROJECT_DIR$/AntAppWithDeployWar/AntAppWithDeployWar.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" filepath="$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" filepath="$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" filepath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithJartask/AntAppWithJartask.iml" filepath="$PROJECT_DIR$/AntAppWithJartask/AntAppWithJartask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithJavaTask/AntAppWithJavaTask.iml" filepath="$PROJECT_DIR$/AntAppWithJavaTask/AntAppWithJavaTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithJavac/AntAppWithJavac.iml" filepath="$PROJECT_DIR$/AntAppWithJavac/AntAppWithJavac.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithJavadoc/AntAppWithJavadoc.iml" filepath="$PROJECT_DIR$/AntAppWithJavadoc/AntAppWithJavadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithJunitTask/AntAppWithJunitTask.iml" filepath="$PROJECT_DIR$/AntAppWithJunitTask/AntAppWithJunitTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" filepath="$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" filepath="$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" filepath="$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" />
