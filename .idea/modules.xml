@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" filepath="$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" filepath="$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" filepath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" filepath="$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithJartask/AntAppWithJartask.iml" filepath="$PROJECT_DIR$/AntAppWithJartask/AntAppWithJartask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithJavac/AntAppWithJavac.iml" filepath="$PROJECT_DIR$/AntAppWithJavac/AntAppWithJavac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithJavadoc/AntAppWithJavadoc.iml" filepath="$PROJECT_DIR$/AntAppWithJavadoc/AntAppWithJavadoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" filepath="$PROJECT_DIR$/AntAppWithPathElement/AntAppWithPathElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" filepath="$PROJECT_DIR$/AntAppWithPatternSet/AntAppWithPatternSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" filepath="$PROJECT_DIR$/AntAppWithPredefineProperties/AntAppWithPredefineProperties.iml" />
@@ -13,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPropertyElement/AntAppWithPropertyElement.iml" filepath="$PROJECT_DIR$/AntAppWithPropertyElement/AntAppWithPropertyElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithPropertyFile/AntAppWithPropertyFile.iml" filepath="$PROJECT_DIR$/AntAppWithPropertyFile/AntAppWithPropertyFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithTargetDependencyTree/AntAppWithTargetDependencyTree.iml" filepath="$PROJECT_DIR$/AntAppWithTargetDependencyTree/AntAppWithTargetDependencyTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithWarTask/AntAppWithWarTask.iml" filepath="$PROJECT_DIR$/AntAppWithWarTask/AntAppWithWarTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntBasics.iml" filepath="$PROJECT_DIR$/AntBasics.iml" />
     </modules>
   </component>

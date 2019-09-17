@@ -2,13 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88476b23-1838-4f4b-b83d-519f05e7ea99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/lib/js-1.7R2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/db/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/util/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/db/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/AntAppWithJavac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/lib/js-1.7R2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/db/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/util/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithJavadoc/AntAppWithJavadoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/AntAppWithWarTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/lib/js-1.7R2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/main/java/com/db/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/main/java/com/util/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/images/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/test/java/com/db/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithWarTask/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithJavadocElement/AntAppWithJavadocElement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithJartask/AntAppWithJartask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithJavadocElement/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithJavadoc/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithJavadoc/src/com/pkg1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithJavadoc/src/com/pkg1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithJavadoc/src/com/pkg2/Calculation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,72 +57,69 @@
     <session id="1384672797">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="9" />
           <entry key="dev" value="2" />
+          <entry key="html" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="3" />
-          <entry key="md" value="3" />
+          <entry key="java" value="22" />
+          <entry key="jpg" value="3" />
+          <entry key="md" value="4" />
+          <entry key="png" value="1" />
           <entry key="txt" value="5" />
-          <entry key="xml" value="29" />
+          <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="HTML" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="3" />
-          <entry key="Markdown" value="3" />
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="22" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="XML" value="29" />
+          <entry key="XML" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dev" value="58" />
-          <entry key="java" value="155" />
-          <entry key="md" value="100" />
+          <entry key="html" value="116" />
+          <entry key="java" value="541" />
+          <entry key="md" value="135" />
           <entry key="txt" value="138" />
-          <entry key="xml" value="1529" />
+          <entry key="xml" value="3503" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="155" />
-          <entry key="Markdown" value="100" />
+          <entry key="HTML" value="116" />
+          <entry key="JAVA" value="541" />
+          <entry key="Markdown" value="135" />
           <entry key="PLAIN_TEXT" value="196" />
-          <entry key="XML" value="1529" />
+          <entry key="XML" value="3503" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/build.xml">
+        <entry file="file://$PROJECT_DIR$/AntAppWithJavac/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -132,6 +165,18 @@
         <option value="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java" />
         <option value="$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java" />
         <option value="$PROJECT_DIR$/AntAppWithJavadocElement/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/Calculator.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/Student.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/util/Calculator.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJavac/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/db/Student.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/db/StudentTest.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/util/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/util/CalculatorMain.java" />
+        <option value="$PROJECT_DIR$/AntAppWithJartask/Readme.md" />
+        <option value="$PROJECT_DIR$/AntAppWithJartask/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithWarTask/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -147,8 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,51 +202,57 @@
             <path>
               <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJartask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJartask" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithJavac" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="AntAppWithJavadocElement" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg1" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithWarTask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568478681354" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568686646035" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AntAppWithJartask/lib" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AntAppWithFilterset/tmp" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AntAppWithPatternSet" />
-      <recent name="$PROJECT_DIR$/AntAppWithPathElement/lib/apache" />
-      <recent name="$PROJECT_DIR$/AntAppWithPathElement/lib" />
+      <recent name="$PROJECT_DIR$/AntAppWithWarTask" />
+      <recent name="$PROJECT_DIR$/AntAppWithWarTask/src" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask/lib" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AntAppWithJartask/src" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask/src/main" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask/lib" />
+      <recent name="$PROJECT_DIR$/AntAppWithJartask/lib/junit" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,6 +267,108 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.CalculatorMain">
+    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.util.CalculatorMain" />
+      <module name="AntAppWithJartask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AntAppWithJartask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.util" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.util.CalculatorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AntAppWithJartask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.db" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.db.StudentTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="AntAppWithJavadoc" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="AntAppWithJavadoc" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StudentTest" />
+      <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="Application.CalculatorMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatorMain" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.StudentTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -231,11 +382,50 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="StudentTest - 2019.09.15 at 20h 45m 59s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.09.15 at 20h 47m 20s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.09.15 at 20h 49m 29s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="71" y="25" width="1849" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25346646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2651137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958402" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -260,7 +450,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -367,27 +557,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg2/Calculation.java">
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadoc/src/com/pkg2/Calculation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadoc/src/com/pkg1/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,24 +578,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/src/com/pkg1/Student.java">
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadoc/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-end-line="22" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavadocElement/build.xml">
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavadoc/src/com/pkg1/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state relative-caret-position="135">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/db/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/src/main/java/com/util/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/dist/WEB-INF/classes/main/java/com/db/Student.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/dist/WEB-INF/classes/main/java/com/util/Calculator.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/db/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/util/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/dist/classes/test/java/com/db/StudentTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/dist/classes/main/java/com/util/CalculatorMain.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/util/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/db/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/main/resources/image2.png" />
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/main/resources/image1.jpg" />
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/util/CalculatorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/main/java/com/db/Student.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/test/java/com/db/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/dist/classes/main/java/com/db/Student.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/images/image1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/.ant-targets-build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -471,12 +764,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>AntAppWithFilterset</last-edited>
+          <last-edited>AntAppWithWarTask</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -496,6 +788,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

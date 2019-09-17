@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<project name="testProject" default="executableJar" basedir=".">
+
+    <property name="src.dir" value="src"/>
+    <property name="dist.dir" value="dist"/>
+    <property name="lib.dir" value="lib"/>
+    <property name="build.classes" value="dist/classes"/>
+
+    <path id="build.claspath">
+        <fileset dir="${lib.dir}"/>
+
+    </path>
+
+    <!--my personal printer for debugging start-->
+    <target name="localDebugg">
+        <pathconvert property="build.classpath" refid="build.claspath"/>
+        <echo>${build.classpath}</echo>
+    </target>
+    <!--my personal printer for debugging end-->
+
+
+    <target name="clean">
+        <delete dir="${dist.dir}"/>
+    </target>
+
+    <target name="init" depends="clean">
+        <mkdir dir="${dist.dir}"/>
+        <mkdir dir="${build.classes}"/>
+    </target>
+
+    <target name="compile" depends="init">
+
+    <javac destdir="${build.classes}">
+        <src path="${src.dir}"/>
+        <classpath refid="build.claspath"/>
+    </javac>
+
+    </target>
+
+
+    <target name="jar" depends="compile">
+        <jar destfile="${dist.dir}/app1.jar" >
+            <fileset dir="${build.classes}">
+                <exclude name="**/*Main.class"/>
+            </fileset>
+
+        </jar>
+    </target>
+
+    <target name="jar1" depends="compile">
+        <jar destfile="${dist.dir}/app1.jar" basedir="${build.classes}">
+            <exclude name="**/*Main.class"/>
+        </jar>
+    </target>
+
+    <target name="executableJar" depends="compile">
+        <jar destfile="${dist.dir}/app1.jar" basedir="${build.classes}">
+
+            <manifest>
+                <attribute name="Main-Class" value="main.java.com.util.CalculatorMain"/>
+            </manifest>
+        </jar>
+    </target>
+
+
+</project>
