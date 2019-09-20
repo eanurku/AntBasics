@@ -2,45 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88476b23-1838-4f4b-b83d-519f05e7ea99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/AntAppWithDeployWar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/lib/js-1.7R2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/db/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/util/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/webapp/images/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/webapp/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/test/java/com/db/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithDeployWar/tomcat.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/AntAppWithJavaTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/lib/js-1.7R2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/src/main/java/com/db/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/src/main/java/com/util/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/src/test/java/com/db/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJavaTask/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/AntAppWithJunitTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/lib/js-1.7R2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/src/main/java/com/db/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/src/main/java/com/util/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/src/test/java/com/db/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntAppWithJunitTask/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/AntAppWithTomcatTasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/lib/js-1.7R2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/main/java/com/db/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/main/java/com/util/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/main/webapp/images/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/main/webapp/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/test/java/com/db/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AntAppWithTomcatTasks/tomcat.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AntAppWithWarTask/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithWarTask/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/AntAppWithDeployWar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/AntAppWithCopyWarToTomcat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/lib/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/lib/js-1.7R2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/lib/js-1.7R2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/lib/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/lib/junit-4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/lib/mockito/mockito-all-1.10.19.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/db/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/java/com/db/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/java/com/util/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/util/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/java/com/util/CalculatorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/webapp/images/image1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/webapp/images/image1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/main/webapp/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/webapp/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/test/java/com/db/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/test/java/com/db/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/src/test/java/com/util/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/test/java/com/util/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithDeployWar/tomcat.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/tomcat.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntAppWithJunitTask/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AntAppWithJunitTask/build.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,13 +48,15 @@
     <session id="1384672797">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.41" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,11 +67,11 @@
           <entry key="iml" value="2" />
           <entry key="java" value="32" />
           <entry key="jpg" value="3" />
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
           <entry key="png" value="1" />
-          <entry key="properties" value="3" />
+          <entry key="properties" value="8" />
           <entry key="txt" value="5" />
-          <entry key="xml" value="54" />
+          <entry key="xml" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -84,10 +81,10 @@
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="4" />
           <entry key="JAVA" value="32" />
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="54" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -95,20 +92,20 @@
           <entry key="dev" value="58" />
           <entry key="html" value="116" />
           <entry key="java" value="541" />
-          <entry key="md" value="217" />
-          <entry key="properties" value="36" />
+          <entry key="md" value="219" />
+          <entry key="properties" value="105" />
           <entry key="txt" value="138" />
-          <entry key="xml" value="4253" />
+          <entry key="xml" value="5260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="116" />
           <entry key="JAVA" value="541" />
-          <entry key="Markdown" value="217" />
+          <entry key="Markdown" value="219" />
           <entry key="PLAIN_TEXT" value="196" />
-          <entry key="Properties" value="36" />
-          <entry key="XML" value="4253" />
+          <entry key="Properties" value="105" />
+          <entry key="XML" value="5260" />
         </counts>
       </usages-collector>
     </session>
@@ -116,10 +113,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/build.xml">
+        <entry file="file://$PROJECT_DIR$/AntAppWithTomcatTasks/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+            <state relative-caret-position="93">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AntAppWithTomcatTasks/tomcat.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -133,6 +139,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deploy.path</find>
+      <find>appserver.lib</find>
+      <find>appserver.home</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -182,6 +195,10 @@
         <option value="$PROJECT_DIR$/AntAppWithJavaTask/build.xml" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/AntAppWithJunitTask/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithTomcatTasksForDirectDeployment/build.xml" />
+        <option value="$PROJECT_DIR$/AntAppWithTomcatTasks/Readme.md" />
+        <option value="$PROJECT_DIR$/AntAppWithTomcatTasks/tomcat.properties" />
+        <option value="$PROJECT_DIR$/AntAppWithTomcatTasks/build.xml" />
       </list>
     </option>
   </component>
@@ -207,7 +224,13 @@
             <path>
               <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="AntAppWithWarTask" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithTomcatTasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AntBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AntBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="AntAppWithTomcatTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,7 +244,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568696132504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568953063541" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/AntAppWithJartask/lib" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -229,19 +252,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AntAppWithTomcatTasksForDirectDeployment" />
+      <recent name="$PROJECT_DIR$/AntAppWithJunitTask" />
+      <recent name="$PROJECT_DIR$/AntAppWithJavaTask" />
+      <recent name="$PROJECT_DIR$/AntAppWithJavaTask/src" />
+      <recent name="$PROJECT_DIR$/AntAppWithDeployWar/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AntAppWithJartask/src" />
       <recent name="$PROJECT_DIR$/AntAppWithJartask" />
       <recent name="$PROJECT_DIR$/AntAppWithJartask/src/main" />
       <recent name="$PROJECT_DIR$/AntAppWithJartask/lib" />
       <recent name="$PROJECT_DIR$/AntAppWithJartask/lib/junit" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AntAppWithJunitTask" />
-      <recent name="$PROJECT_DIR$/AntAppWithJavaTask" />
-      <recent name="$PROJECT_DIR$/AntAppWithJavaTask/src" />
-      <recent name="$PROJECT_DIR$/AntAppWithDeployWar/src" />
-      <recent name="$PROJECT_DIR$/AntAppWithDeployWar" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -404,7 +427,7 @@
   <component name="ToolWindowManager">
     <frame x="71" y="25" width="1849" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2651137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21686079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,7 +441,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37777779" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3422222" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -432,7 +455,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21686079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,11 +469,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37694013" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.24958402" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958402" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -479,23 +503,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AntAppWithFilelist/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithFileSet/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="true" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithFilterset/env/tmp/about.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/AntAppWithFilterset/tmp/about.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -538,12 +545,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/dist/WEB-INF/classes/main/java/com/db/Student.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/dist/WEB-INF/classes/main/java/com/util/Calculator.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/dist/WEB-INF/classes/main/java/com/db/Student.class" />
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavac/dist/WEB-INF/classes/main/java/com/util/Calculator.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/test/java/com/db/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -558,12 +561,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/dist/classes/test/java/com/db/StudentTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/dist/classes/main/java/com/util/CalculatorMain.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/dist/classes/test/java/com/db/StudentTest.class" />
+    <entry file="file://$PROJECT_DIR$/AntAppWithJartask/dist/classes/main/java/com/util/CalculatorMain.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithJartask/src/main/java/com/util/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -575,12 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,9 +596,7 @@
     <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/main/java/com/db/Student.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/dist/classes/main/java/com/db/Student.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/dist/classes/main/java/com/db/Student.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/src/main/webapp/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -636,15 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/dist/classes/test/java/com/db/StudentTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/dist/classes/test/java/com/db/StudentTest.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithWarTask/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -652,7 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithDeployWar/src/main/java/com/db/Student.java">
+    <entry file="file://$PROJECT_DIR$/AntAppWithCopyWarToTomcat/src/main/java/com/db/Student.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/AntAppWithPropertyFile/build.properties.dev">
@@ -683,17 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithDeployWar/tomcat.properties">
+    <entry file="file://$PROJECT_DIR$/AntAppWithCopyWarToTomcat/tomcat.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithDeployWar/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -714,15 +690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJavaTask/dist/classes/main/java/com/util/CalculatorMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJavaTask/dist/classes/main/java/com/util/CalculatorMain.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithJavaTask/src/main/java/com/util/CalculatorMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -754,9 +722,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/dist/classes/test/java/com/db/StudentTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/dist/classes/test/java/com/db/StudentTest.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/src/test/java/com/util/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -764,13 +730,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/dist/classes/test/java/com/util/CalculatorTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/dist/classes/test/java/com/util/CalculatorTest.class" />
     <entry file="file://$PROJECT_DIR$/AntAppWithJunitTask/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        <state relative-caret-position="295">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithCopyWarToTomcat/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="13" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithTomcatTasks/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithTomcatTasks/tomcat.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntAppWithTomcatTasks/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>

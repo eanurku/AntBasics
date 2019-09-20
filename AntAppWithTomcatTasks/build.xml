@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<project name="testWar" default="copyToTomcat" basedir=".">
+
+    <property name="src.dir" value="src"/>
+    <property name="dist.dir" value="dist"/>
+    <property name="build.classes" value="dist/classes"/>
+    <property name="lib.dir" value="lib"/>
+    <property name="webapp.dir" value="src/main/webapp"/>
+
+    <property file="tomcat.properties"/>
+
+    <path id="master-classpath">
+        <fileset dir="${lib.dir}"/>
+
+    </path>
+    <target name="clean">
+        <delete dir="${dist.dir}"/>
+    </target>
+
+    <target name="init" depends="clean">
+        <mkdir dir="${dist.dir}"/>
+        <mkdir dir="${build.classes}"/>
+    </target>
+
+    <target name="compile" depends="init">
+        <javac destdir="${build.classes}">
+            <src path="${src.dir}"/>
+            <classpath refid="master-classpath"/>
+
+        </javac>
+    </target>
+
+
+    <target name="war" depends="compile">
+        <war destfile="${dist.dir}/app.war" needxmlfile="false">
+
+            <classes dir="${build.classes}"/>
+
+            <lib dir="${lib.dir}">
+                <exclude name="**/mock*"/>
+                <exclude name="**/junit*"/>
+            </lib>
+
+            <fileset dir="${webapp.dir}">
+                <exclude name="**/*.xml"/>
+
+            </fileset>
+        </war>
+    </target>
+    <target name="copyToTomcat" depends="war">
+        <copy todir="${user.home}/${deploy.path}">
+            <filelist dir="${dist.dir}">
+                <file name="app.war"/>
+            </filelist>
+        </copy>
+
+    </target>
+
+    <target name="removeFromTomcat" >
+        <delete file="${user.home}/${deploy.path}/app.war"/>
+        <delete dir="${user.home}/${deploy.path}/app"/>
+    </target>
+
+    <!-- tomcat tasks-->
+    <!-- context path('/')for tomcat is webapps directory so path value for any App in tomcat tasks will be context-root/appname i.e. /AppName-->
+    <path id="catalina-classpath">
+        <fileset dir="${user.home}/${appserver.lib}">
+            <include name="*.jar"/>
+        </fileset>
+        <fileset dir="${user.home}/${appserver.home}/bin">
+            <include name="*.jar"/>
+        </fileset>
+    </path>
+
+    <taskdef resource="org/apache/catalina/ant/catalina.tasks" >
+        <classpath refid="catalina-classpath"/>
+    </taskdef>
+
+    <target name="listtomcat">
+        <list url="${manager.url}" username="${manager.username}" password="${manager.password}">
+
+        </list>
+    </target>
+
+    <target name="installtomcat" depends="war">
+        <deploy url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app" localwar="file://${basedir}/${dist.dir}/app.war">
+
+        </deploy>
+    </target>
+
+    <target name="reloadtomcat">
+        <reload url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app">
+
+        </reload>
+    </target>
+
+    <target name="stoptomcat">
+        <stop url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app">
+
+        </stop>
+    </target>
+
+    <target name="starttomcat">
+        <start url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app">
+
+        </start>
+    </target>
+
+
+
+
+
+</project>
