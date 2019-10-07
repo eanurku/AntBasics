@@ -2,10 +2,6 @@ clean
 compile
 copyToTomcat
 init
-installtomcat
 listtomcat
-reloadtomcat
 removeFromTomcat
-starttomcat
-stoptomcat
 war

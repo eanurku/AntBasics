@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AntAppWithCopyWarToTomcat/AntAppWithCopyWarToTomcat.iml" filepath="$PROJECT_DIR$/AntAppWithCopyWarToTomcat/AntAppWithCopyWarToTomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntAppWithFatJartask/AntAppWithFatJartask.iml" filepath="$PROJECT_DIR$/AntAppWithFatJartask/AntAppWithFatJartask.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" filepath="$PROJECT_DIR$/AntAppWithFileSet/AntAppWithFileSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" filepath="$PROJECT_DIR$/AntAppWithFilelist/AntAppWithFilelist.iml" />
       <module fileurl="file://$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" filepath="$PROJECT_DIR$/AntAppWithFilterset/AntAppWithFilterset.iml" />

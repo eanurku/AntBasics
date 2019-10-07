@@ -1,0 +1,6 @@
+clean
+compile
+execFatJar
+init
+jar
+localDebugg
