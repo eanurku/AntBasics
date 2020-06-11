@@ -42,3 +42,10 @@ Install Ant for Ubuntu
 
 - ant -version
 
+4. ant printing classpath values:
+    
+    <target name="localDebugg">
+        <pathconvert property="build.classpath" refid="build.claspath"/>
+        <echo>${build.classpath}</echo>
+    </target>
+ 

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="testProject" default="executableJar" basedir=".">
+<project name="testProject" default="execFatJar" basedir=".">
 
     <property name="src.dir" value="src"/>
     <property name="dist.dir" value="dist"/>
@@ -29,11 +29,10 @@
     </target>
 
     <target name="compile" depends="init">
-
-    <javac destdir="${build.classes}">
-        <src path="${src.dir}"/>
-        <classpath refid="build.claspath"/>
-    </javac>
+        <javac destdir="${build.classes}">
+            <src path="${src.dir}"/>
+            <classpath refid="build.claspath"/>
+        </javac>
 
     </target>
 
