@@ -10,6 +10,8 @@
         <echo>${ant.home}</echo>
         <echo>${ant.library.dir}</echo>
         <echo>${ant.core.lib}</echo>
+        <echo>${user.home}</echo>
+
 
 
 
