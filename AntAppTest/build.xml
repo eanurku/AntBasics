@@ -40,4 +40,13 @@
         </java>
 
     </target>
+
+    <path id="build.classpath">
+        <pathelement location="${build.classes}"/>
+    </path>
+    <target name="runApp">
+        <java classname="main.java.com.anurag.App" classpathref="build.classpath">
+
+        </java>
+    </target>
 </project>
