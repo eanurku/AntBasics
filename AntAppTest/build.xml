@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project  name="test" default="info">
+
+    <property name="src.dir" value="src"/>
+    <property name="dist.dir" value="dist"/>
+    <property name="build.classes" value="dist/classes"/>
+
     <target name="info">
         <echo>Hello...</echo>
+    </target>
+
+    <target name="clean">
+        <delete dir="dist"/>
+    </target>
+
+    <target name="init" depends="clean">
+        <mkdir dir="${dist.dir}"/>
+        <mkdir dir="${build.classes}"/>
+    </target>
+
+
+    <target name="compile" depends="init">
+        <javac destdir="${build.classes}">
+            <src path="${src.dir}" />
+        </javac>
+
+    </target>
+    <target name="createJar" depends="compile">
+        <jar destfile="${dist.dir}/app.jar" basedir="${build.classes}">
+            <manifest>
+                <attribute name="Main-Class" value="main.java.com.anurag.App"/>
+            </manifest>
+        </jar>
+
+    </target>
+
+    <target name="runJar">
+        <java jar="${dist.dir}/app.jar" fork="true">
+
+        </java>
+
     </target>
 </project>
