@@ -76,31 +76,31 @@
         <classpath refid="catalina-classpath"/>
     </taskdef>
 
-    <target name="listtomcat">
+    <target name="listTomcat">
         <list url="${manager.url}" username="${manager.username}" password="${manager.password}">
 
         </list>
     </target>
 
-    <target name="installtomcat" depends="war">
+    <target name="installTomcat" depends="war">
         <deploy url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app" localwar="file://${basedir}/${dist.dir}/app.war">
 
         </deploy>
     </target>
 
-    <target name="reloadtomcat">
+    <target name="reloadTomcatApp">
         <reload url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app">
 
         </reload>
     </target>
 
-    <target name="stoptomcat">
+    <target name="stopTomcatApp">
         <stop url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app">
 
         </stop>
     </target>
 
-    <target name="starttomcat">
+    <target name="startTomcatApp">
         <start url="${manager.url}" username="${manager.username}" password="${manager.password}" path="/app">
 
         </start>

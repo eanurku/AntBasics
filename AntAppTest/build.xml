@@ -6,7 +6,7 @@
     <property name="build.classes" value="dist/classes"/>
 
     <target name="info">
-        <echo>Hello...</echo>
+        <echo>Hello... ${user.home}</echo>
     </target>
 
     <target name="clean">
