@@ -10,5 +10,4 @@
   <role rolename="manager-status"/>
   <user username="admin" password="admin" roles="manager-script"/>
 
-
 </tomcat-users>
